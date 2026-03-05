@@ -19,3 +19,7 @@ The dashboard helps identify:
 Booking trends over time
 Cancellation patterns
 Overall hotel booking performance
+
+### Dataset used
+<a href = "https://github.com/Monu-sharma26/Data_Analysis_Dashboard/blob/main/hotel_booking.xlsx">Dataset</a>
+<a href = "https://github.com/Monu-sharma26/Data_Analysis_Dashboard/blob/main/Dashboard.png">Dashboard</a>
